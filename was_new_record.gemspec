@@ -1,5 +1,3 @@
-# Provide a simple gemspec so you can easily use your
-# project in your rails apps through git.
 Gem::Specification.new do |s|
   s.name = "was_new_record"
   s.summary = "Run after_commit callbacks on new Active Record instances."
